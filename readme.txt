@@ -1,6 +1,4 @@
-Name: Ahmed Moustafa
-Uark ID: 010853047
-Operating System HW9: Sleeping Barber Problem
+Sleeping Barber Problem:
 
 The goal of the sleeping barber program is to solve the Sleeping Barber Problem as given in the assignment
 instructions using semaphores, mutex, and threads to properly implement concurrency. The code is split into
