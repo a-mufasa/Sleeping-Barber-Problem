@@ -26,7 +26,7 @@ Barber object becomes a thread.
 Customer class:
 
 Similar to the Barber class, we have a barberShop object so that we can add our customers to the waitingRoom
-queue in the barberShop class. We also implement Runnable and override rin() since the Customer object becomes 
+queue in the barberShop class. We also implement Runnable and override run() since the Customer object becomes 
 a thread. Each customer has a specific name and date for when they enter the shop.
 
 ---------------------------------------------------------------------------------------------------------------
